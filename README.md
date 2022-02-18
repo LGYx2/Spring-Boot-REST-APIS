@@ -10,7 +10,7 @@ API RESTful que nos permite gerenciar as informações das propriedades dos paí
 # Tecnologias utilizadas
 * API desenvolvida em Java 17 usando Spring Boot Framework no Intelij Community
 * API criada usando a ferramenta de gestao de dependencias Maven
-* Utillzou-se a base de dados H2 para guardar as informacoes
+* Utillzou-se a base de dados H2 para guardar as informacoes, para acessar o console : http://localhost:8083/h2-console
 * Inicializacao da base de dados se encontra no  arquivo https://github.com/LGYx2/LGYx2.github.io/blob/main/countriesapi/src/main/resources/data.sql
 * Testado no Advanced REST client com todas instrucoes funcionando
 
